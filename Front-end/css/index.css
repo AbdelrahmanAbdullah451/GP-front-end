@@ -1,0 +1,18 @@
+/*[class*="con"]{
+    padding: 1rem;
+    background-color: aqua;
+    border: 2px solid darkgreen;
+    color: #fff;
+    text-align: center;
+}
+*/
+.nav-link{
+ color: #1d866c;   
+}
+.navbar a{
+    text-decoration: none;
+    color: #198754;
+}
+.navbar a:hover{
+  color: #fff;  
+}
